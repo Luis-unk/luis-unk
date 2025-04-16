@@ -19,7 +19,7 @@ You can reach me on Telegram: "[Luis Felipe](https://www.linkedin.com/in/luis-fe
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Luis-unk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>SA
+    </a>
 </p>
 
 
