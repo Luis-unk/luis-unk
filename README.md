@@ -23,7 +23,7 @@ You can reach me on Telegram: "[Luis Felipe](https://www.linkedin.com/in/luis-fe
 </p>
 
 
-###  Tech
+###  Technologies
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
