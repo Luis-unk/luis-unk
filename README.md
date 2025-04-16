@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Luis Felipe
 
-**`Desenvolvedor Backend`**
+**`Backend Developer`**
 
 My name is Luis Felipe, I’m 20 years old and I'm from Jaraguá do Sul, Brazil. I’m currently studying Systems Analysis and Development at UniSENAI. I’m passionate about technology and always looking for new things to learn.
 You can reach me on Telegram: "[Luis Felipe](https://www.linkedin.com/in/luis-felipe-dos-santos-b57606245/)".
@@ -23,7 +23,7 @@ You can reach me on Telegram: "[Luis Felipe](https://www.linkedin.com/in/luis-fe
 </p>
 
 
-###  Linguagens e Tecnologias
+###  Tech
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
