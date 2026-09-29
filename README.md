@@ -2,8 +2,7 @@
 
 **`Backend Developer`**
 
-My name is Luis Felipe, I’m 21 years old and I'm from Jaraguá do Sul, Brazil. I’m currently studying Systems Analysis and Development at UniSENAI. I’m passionate about technology and always looking for new things to learn.
-You can reach me on Telegram: "[Luis Felipe](https://www.linkedin.com/in/luis-felipe-dos-santos-b57606245/)".
+My name is Luis Felipe, I’m 21 years old and I'm from Jaraguá do Sul, Brazil. 
 
 <p align="left">
     <a href="https://github.com/Luis-unk?tab=repositories&sort=stargazers">
